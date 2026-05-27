@@ -1,43 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 420" width="1440" height="420" role="img" aria-label="MultivacLab — AI grocery store">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1B1815"/>
-      <stop offset="100%" stop-color="#0F0D0B"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#E59A79"/>
-      <stop offset="100%" stop-color="#C97855"/>
-    </linearGradient>
+    <filter id="cardShadow" x="-20%" y="-30%" width="140%" height="180%">
+      <feDropShadow dx="0" dy="20" stdDeviation="24" flood-color="#000000" flood-opacity="0.32"/>
+    </filter>
   </defs>
 
-  <rect width="1440" height="420" fill="url(#bg)"/>
+  <rect width="1440" height="420" fill="#000000"/>
 
-  <g stroke="#E59A79" stroke-opacity="0.10" stroke-width="1">
-    <line x1="0" y1="70" x2="1440" y2="70"/>
-    <line x1="0" y1="130" x2="1440" y2="130"/>
-    <line x1="0" y1="190" x2="1440" y2="190"/>
-    <line x1="0" y1="250" x2="1440" y2="250"/>
-    <line x1="0" y1="310" x2="1440" y2="310"/>
-    <line x1="0" y1="370" x2="1440" y2="370"/>
+  <g filter="url(#cardShadow)" opacity="0.98">
+    <rect x="930" y="72" width="270" height="168" rx="34" fill="#272729"/>
+    <rect x="1000" y="184" width="220" height="136" rx="30" fill="#262629"/>
+    <rect x="1110" y="108" width="130" height="214" rx="34" fill="#f5f5f7"/>
   </g>
 
-  <rect x="120" y="132" width="6" height="156" fill="url(#accent)" rx="3"/>
+  <g fill="none" stroke="#86868b" stroke-width="1.2" opacity="0.72">
+    <path d="M974 124h158"/>
+    <path d="M974 158h118"/>
+    <path d="M1038 228h116"/>
+    <path d="M1038 258h88"/>
+  </g>
 
-  <text x="156" y="222" font-family="'Times New Roman', Georgia, 'Noto Serif SC', serif" font-size="92" font-weight="700" fill="#FAFAF6">
+  <circle cx="1180" cy="154" r="8" fill="#2997ff"/>
+  <circle cx="1158" cy="154" r="8" fill="#f5f5f7" opacity="0.25"/>
+
+  <text x="132" y="180" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-size="76" font-weight="600" fill="#f5f5f7">
     MultivacLab
   </text>
 
-  <text x="158" y="272" font-family="'Times New Roman', Georgia, 'Noto Serif SC', serif" font-size="26" fill="#E59A79" font-style="italic">
-    AI skills, tools &amp; digital life automations
+  <text x="136" y="230" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif" font-size="25" font-weight="400" fill="#86868b">
+    AI skills, tools, Obsidian plugins, and digital life automations.
   </text>
 
-  <circle cx="720" cy="264" r="3" fill="#FAFAF6" fill-opacity="0.35"/>
-
-  <text x="740" y="272" font-family="'PingFang SC', 'Noto Serif SC', 'Songti SC', serif" font-size="24" fill="#FAFAF6" fill-opacity="0.72">
+  <text x="136" y="270" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'PingFang SC', 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="400" fill="#f5f5f7">
     把重复劳动沉淀成可复用的数字工具
   </text>
 
-  <text x="1320" y="382" text-anchor="end" font-family="'Times New Roman', Georgia, serif" font-size="14" fill="#FAFAF6" fill-opacity="0.40" letter-spacing="2">
-    EST · 2026 · MULTIVACLAB
+  <rect x="136" y="306" width="172" height="40" rx="20" fill="#0071e3"/>
+  <text x="222" y="332" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'PingFang SC', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff">
+    wdblink的AI杂货铺
+  </text>
+
+  <text x="1320" y="370" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#86868b">
+    EST. 2026
   </text>
 </svg>
