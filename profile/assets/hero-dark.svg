@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 420" width="1440" height="420" role="img" aria-label="MultivacLab — AI grocery store">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1B1815"/>
+      <stop offset="100%" stop-color="#0F0D0B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E59A79"/>
+      <stop offset="100%" stop-color="#C97855"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1440" height="420" fill="url(#bg)"/>
+
+  <g stroke="#E59A79" stroke-opacity="0.10" stroke-width="1">
+    <line x1="0" y1="70" x2="1440" y2="70"/>
+    <line x1="0" y1="130" x2="1440" y2="130"/>
+    <line x1="0" y1="190" x2="1440" y2="190"/>
+    <line x1="0" y1="250" x2="1440" y2="250"/>
+    <line x1="0" y1="310" x2="1440" y2="310"/>
+    <line x1="0" y1="370" x2="1440" y2="370"/>
+  </g>
+
+  <rect x="120" y="132" width="6" height="156" fill="url(#accent)" rx="3"/>
+
+  <text x="156" y="222" font-family="'Times New Roman', Georgia, 'Noto Serif SC', serif" font-size="92" font-weight="700" fill="#FAFAF6">
+    MultivacLab
+  </text>
+
+  <text x="158" y="272" font-family="'Times New Roman', Georgia, 'Noto Serif SC', serif" font-size="26" fill="#E59A79" font-style="italic">
+    AI skills, tools &amp; digital life automations
+  </text>
+
+  <circle cx="720" cy="264" r="3" fill="#FAFAF6" fill-opacity="0.35"/>
+
+  <text x="740" y="272" font-family="'PingFang SC', 'Noto Serif SC', 'Songti SC', serif" font-size="24" fill="#FAFAF6" fill-opacity="0.72">
+    把重复劳动沉淀成可复用的数字工具
+  </text>
+
+  <text x="1320" y="382" text-anchor="end" font-family="'Times New Roman', Georgia, serif" font-size="14" fill="#FAFAF6" fill-opacity="0.40" letter-spacing="2">
+    EST · 2026 · MULTIVACLAB
+  </text>
+</svg>
