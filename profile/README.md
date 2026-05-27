@@ -4,12 +4,12 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MultivacLab/.github/main/profile/assets/hero-dark.svg">
-  <img alt="MultivacLab" src="https://raw.githubusercontent.com/MultivacLab/.github/main/profile/assets/hero-light.svg" width="720">
+  <img alt="MultivacLab — wdblink的AI杂货铺" src="https://raw.githubusercontent.com/MultivacLab/.github/main/profile/assets/hero-light.svg" width="720">
 </picture>
 
 <br/>
 
-**AI skills, tools, Obsidian plugins — for escaping repeated work**
+**AI skills, tools, Obsidian plugins — designed to reduce repeated work**
 
 把重复劳动沉淀成可复用的数字工具
 
