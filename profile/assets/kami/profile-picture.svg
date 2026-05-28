@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="MultivacLab kami profile picture">
+  <rect width="1024" height="1024" fill="#f5f4ed"/>
+  <rect x="132" y="116" width="760" height="792" rx="28" fill="#faf9f5" stroke="#e8e6dc" stroke-width="4"/>
+  <line x1="188" y1="230" x2="836" y2="230" stroke="#e8e6dc" stroke-width="3"/>
+  <line x1="188" y1="790" x2="836" y2="790" stroke="#e8e6dc" stroke-width="3"/>
+
+  <text x="188" y="192" font-family="Charter, Georgia, Palatino, 'Times New Roman', serif" font-size="42" font-weight="500" fill="#1b365d" letter-spacing="0.4">
+    01
+  </text>
+  <text x="512" y="610" text-anchor="middle" font-family="Charter, Georgia, Palatino, 'Times New Roman', serif" font-size="430" font-weight="500" fill="#141413" letter-spacing="-12">
+    M
+  </text>
+  <text x="512" y="830" text-anchor="middle" font-family="Charter, Georgia, Palatino, 'Times New Roman', serif" font-size="46" font-weight="500" fill="#1b365d">
+    紙 / 纸
+  </text>
+  <rect x="414" y="852" width="196" height="28" rx="4" fill="#E4ECF5"/>
+</svg>
