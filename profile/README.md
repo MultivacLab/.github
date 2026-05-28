@@ -2,10 +2,7 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MultivacLab/.github/main/profile/assets/hero-dark.svg">
-  <img alt="MultivacLab — wdblink的AI杂货铺" src="https://raw.githubusercontent.com/MultivacLab/.github/main/profile/assets/hero-light.svg" width="720">
-</picture>
+<img alt="MultivacLab — wdblink的AI杂货铺" src="https://raw.githubusercontent.com/MultivacLab/.github/main/profile/assets/poster.png" width="720">
 
 <br/>
 
