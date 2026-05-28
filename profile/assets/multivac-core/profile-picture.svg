@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="MultivacLab abstract mark">
+  <rect width="1024" height="1024" fill="#f5f4ed"/>
+
+  <g fill="none" stroke="#1b365d" stroke-width="58" stroke-linecap="round">
+    <path d="M512 178A334 334 0 0 1 738 758"/>
+    <path d="M512 846A334 334 0 0 1 286 266"/>
+  </g>
+
+  <circle cx="512" cy="512" r="54" fill="#1b365d"/>
+</svg>
