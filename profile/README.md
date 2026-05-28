@@ -2,7 +2,7 @@
 
 <br/>
 
-<img alt="MultivacLab — wdblink的AI杂货铺" src="https://raw.githubusercontent.com/MultivacLab/.github/main/profile/assets/poster.png" width="720">
+<img alt="MultivacLab — kami style profile poster" src="https://raw.githubusercontent.com/MultivacLab/.github/main/profile/assets/kami/poster.png" width="720">
 
 <br/>
 
