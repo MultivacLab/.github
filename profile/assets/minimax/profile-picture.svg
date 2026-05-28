@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="MultivacLab MiniMax-style profile picture">
+  <defs>
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1456f0"/>
+      <stop offset="100%" stop-color="#ea5ec1"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="24" flood-color="#2c1e74" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect width="1024" height="1024" rx="208" fill="#ffffff"/>
+  <rect x="128" y="128" width="768" height="768" rx="176" fill="#ffffff" stroke="#e5e7eb" stroke-width="8" filter="url(#glow)"/>
+  <circle cx="792" cy="232" r="78" fill="#bfdbfe" opacity="0.7"/>
+  <circle cx="222" cy="782" r="86" fill="#ea5ec1" opacity="0.14"/>
+
+  <g transform="translate(214 238)">
+    <path d="M0 522V0h142l240 300L622 0h142v522H594V252L382 520 170 252v270z" fill="#18181b"/>
+    <path d="M382 520 170 252V0h94l118 148L500 0h94v252z" fill="url(#mark)"/>
+    <circle cx="636" cy="432" r="54" fill="#1456f0"/>
+    <circle cx="666" cy="402" r="26" fill="#ea5ec1"/>
+  </g>
+
+  <rect x="350" y="812" width="324" height="42" rx="21" fill="#f0f0f0"/>
+  <circle cx="386" cy="833" r="9" fill="#1456f0"/>
+  <circle cx="512" cy="833" r="9" fill="#8e8e93"/>
+  <circle cx="638" cy="833" r="9" fill="#ea5ec1"/>
+</svg>
