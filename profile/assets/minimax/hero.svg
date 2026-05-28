@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 420" width="1440" height="420" role="img" aria-label="MultivacLab MiniMax-style hero">
+  <defs>
+    <linearGradient id="bluePink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1456f0"/>
+      <stop offset="100%" stop-color="#ea5ec1"/>
+    </linearGradient>
+    <linearGradient id="softBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#bfdbfe"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+    <filter id="brandGlow" x="-25%" y="-30%" width="150%" height="170%">
+      <feDropShadow dx="0" dy="0" stdDeviation="15" flood-color="#2c1e74" flood-opacity="0.16"/>
+    </filter>
+    <filter id="softShadow" x="-20%" y="-25%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#242424" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <rect width="1440" height="420" fill="#ffffff"/>
+  <circle cx="1168" cy="76" r="110" fill="#bfdbfe" opacity="0.38"/>
+  <circle cx="1314" cy="338" r="132" fill="#ea5ec1" opacity="0.10"/>
+
+  <g transform="translate(132 78)">
+    <rect x="0" y="0" width="118" height="36" rx="18" fill="#f0f0f0"/>
+    <text x="59" y="23" text-anchor="middle" font-family="'DM Sans', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#18181b">
+      MultivacLab
+    </text>
+    <rect x="132" y="0" width="86" height="36" rx="18" fill="#181e25"/>
+    <text x="175" y="23" text-anchor="middle" font-family="'DM Sans', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#ffffff">
+      AI tools
+    </text>
+  </g>
+
+  <text x="132" y="196" font-family="Outfit, 'DM Sans', 'Helvetica Neue', Arial, sans-serif" font-size="76" font-weight="500" fill="#222222">
+    MultivacLab
+  </text>
+  <text x="136" y="244" font-family="'DM Sans', 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="500" fill="#45515e">
+    AI skills, tools &amp; digital life automations
+  </text>
+  <text x="136" y="286" font-family="'DM Sans', 'PingFang SC', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="500" fill="#333333">
+    把重复劳动沉淀成可复用的数字工具
+  </text>
+
+  <g transform="translate(136 318)">
+    <rect width="128" height="40" rx="8" fill="#181e25"/>
+    <text x="64" y="26" text-anchor="middle" font-family="'DM Sans', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">
+      Build flow
+    </text>
+    <rect x="144" width="142" height="40" rx="8" fill="#f0f0f0"/>
+    <text x="215" y="26" text-anchor="middle" font-family="'DM Sans', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#333333">
+      Learn more
+    </text>
+  </g>
+
+  <g transform="translate(816 74)" filter="url(#brandGlow)">
+    <rect x="0" y="0" width="182" height="232" rx="24" fill="url(#bluePink)"/>
+    <rect x="22" y="24" width="138" height="94" rx="18" fill="#ffffff" opacity="0.24"/>
+    <text x="28" y="158" font-family="Outfit, 'DM Sans', Arial, sans-serif" font-size="24" font-weight="600" fill="#ffffff">
+      Skill
+    </text>
+    <text x="28" y="188" font-family="'DM Sans', Arial, sans-serif" font-size="13" font-weight="500" fill="#ffffff" opacity="0.82">
+      reusable agents
+    </text>
+  </g>
+
+  <g transform="translate(1034 96)" filter="url(#softShadow)">
+    <rect x="0" y="0" width="178" height="198" rx="22" fill="#ffffff" stroke="#e5e7eb"/>
+    <circle cx="48" cy="54" r="22" fill="#1456f0"/>
+    <rect x="78" y="42" width="70" height="10" rx="5" fill="#18181b"/>
+    <rect x="78" y="62" width="52" height="8" rx="4" fill="#8e8e93"/>
+    <rect x="30" y="116" width="118" height="18" rx="9" fill="#f0f0f0"/>
+    <rect x="30" y="148" width="84" height="18" rx="9" fill="#bfdbfe"/>
+  </g>
+
+  <g transform="translate(1224 134)" filter="url(#brandGlow)">
+    <rect x="0" y="0" width="116" height="126" rx="20" fill="#181e25"/>
+    <path d="M32 82V38l26 32 26-32v44" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="86" cy="92" r="10" fill="#ea5ec1"/>
+  </g>
+</svg>
