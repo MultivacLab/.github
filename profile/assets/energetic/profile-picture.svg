@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="MultivacLab energetic profile picture">
+  <rect width="1024" height="1024" fill="#FFEDD5"/>
+  <g stroke="#1d1d1f" stroke-width="34" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M156 790V254h162l194 260 194-260h162v536H700V506L512 746 324 506v284z" fill="#EA580B"/>
+    <path d="M512 746 324 506v284H156V254h162z" fill="#FDBA74"/>
+    <path d="M700 790V506L512 746l-86-110 86-122 194-260h162v536z" fill="#F59E0B"/>
+    <circle cx="750" cy="704" r="64" fill="#16A34A"/>
+    <path d="M122 196h170"/>
+    <path d="M732 154h152"/>
+    <path d="M112 856h236"/>
+    <path d="M812 860h92"/>
+  </g>
+  <g stroke="#1d1d1f" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M118 454l-62 66 82 12-84 94"/>
+    <path d="M900 356l70 42-70 42"/>
+  </g>
+</svg>
