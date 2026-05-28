@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 420" width="1440" height="420" role="img" aria-label="MultivacLab kami hero">
+  <defs>
+    <filter id="whisper" x="-5%" y="-10%" width="110%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="12" flood-color="#141413" flood-opacity="0.05"/>
+    </filter>
+  </defs>
+
+  <rect width="1440" height="420" fill="#f5f4ed"/>
+  <rect x="86" y="54" width="1268" height="312" rx="16" fill="#faf9f5" stroke="#e8e6dc" stroke-width="1" filter="url(#whisper)"/>
+
+  <line x1="144" y1="114" x2="1296" y2="114" stroke="#e8e6dc" stroke-width="1"/>
+  <line x1="144" y1="306" x2="1296" y2="306" stroke="#e8e6dc" stroke-width="1"/>
+
+  <text x="144" y="94" font-family="Charter, Georgia, Palatino, 'Times New Roman', serif" font-size="14" font-weight="500" fill="#1b365d" letter-spacing="0.4">
+    01
+  </text>
+  <text x="190" y="94" font-family="Charter, Georgia, Palatino, 'Times New Roman', serif" font-size="14" font-weight="500" fill="#6b6a64" letter-spacing="1.2">
+    KAMI / 紙 / 纸 · EDITORIAL SYSTEM
+  </text>
+
+  <text x="144" y="202" font-family="Charter, Georgia, Palatino, 'Times New Roman', serif" font-size="86" font-weight="500" fill="#141413" letter-spacing="-1.2">
+    MultivacLab
+  </text>
+  <text x="150" y="246" font-family="Charter, Georgia, Palatino, 'Times New Roman', serif" font-size="22" font-weight="500" fill="#504e49">
+    AI skills, tools &amp; digital life automations
+  </text>
+  <text x="150" y="286" font-family="'TsangerJinKai02', 'Source Han Serif SC', 'Noto Serif CJK SC', 'Songti SC', Georgia, serif" font-size="25" font-weight="500" fill="#3d3d3a" letter-spacing="0.35">
+    把重复劳动沉淀成可复用的数字工具
+  </text>
+
+  <g transform="translate(1020 150)">
+    <rect x="0" y="0" width="220" height="116" rx="8" fill="#f5f4ed" stroke="#e8e6dc"/>
+    <text x="24" y="38" font-family="JetBrains Mono, 'SF Mono', Monaco, monospace" font-size="12" fill="#6b6a64" letter-spacing="0.4">
+      repeat_work
+    </text>
+    <text x="24" y="68" font-family="Charter, Georgia, Palatino, 'Times New Roman', serif" font-size="24" font-weight="500" fill="#1b365d" style="font-variant-numeric: tabular-nums;">
+      8.4x
+    </text>
+    <text x="90" y="68" font-family="Charter, Georgia, Palatino, 'Times New Roman', serif" font-size="13" font-weight="500" fill="#504e49">
+      reusable flow
+    </text>
+  </g>
+
+  <rect x="144" y="324" width="96" height="24" rx="4" fill="#E4ECF5"/>
+  <text x="192" y="340" text-anchor="middle" font-family="Charter, Georgia, Palatino, 'Times New Roman', serif" font-size="12" font-weight="500" fill="#1b365d" letter-spacing="0.4">
+    wdblink
+  </text>
+  <rect x="252" y="324" width="130" height="24" rx="4" fill="#EEF2F7"/>
+  <text x="317" y="340" text-anchor="middle" font-family="Charter, Georgia, Palatino, 'Times New Roman', serif" font-size="12" font-weight="500" fill="#1b365d" letter-spacing="0.4">
+    AI grocery
+  </text>
+
+  <text x="1296" y="340" text-anchor="end" font-family="JetBrains Mono, 'SF Mono', Monaco, monospace" font-size="12" fill="#6b6a64" letter-spacing="0.4">
+    2026 / MultivacLab
+  </text>
+</svg>
