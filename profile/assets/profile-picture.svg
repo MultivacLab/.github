@@ -3,7 +3,7 @@
 
   <g fill="none" stroke-width="58" stroke-linecap="round" stroke-linejoin="round">
     <path d="M512 846A334 334 0 0 1 286 266" stroke="#d8c7a3"/>
-    <path d="M512 178A334 334 0 0 1 780 712C738 774 662 810 586 800" stroke="#d7a85c"/>
+    <path d="M512 178A334 334 0 0 1 846 512L642 512" stroke="#d7a85c"/>
   </g>
 
   <circle cx="512" cy="512" r="46" fill="#d7a85c"/>
