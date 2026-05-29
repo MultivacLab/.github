@@ -1,10 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="MultivacLab abstract mark">
-  <rect width="1024" height="1024" fill="#0d0d0d"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="MultivacLab abstract question mark">
+  <rect width="1024" height="1024" fill="#121317"/>
 
-  <g fill="none" stroke="#e8f5f0" stroke-width="58" stroke-linecap="round">
+  <g fill="none" stroke="#d8c7a3" stroke-width="58" stroke-linecap="round">
     <path d="M512 178A334 334 0 0 1 738 758"/>
     <path d="M512 846A334 334 0 0 1 286 266"/>
   </g>
 
-  <circle cx="512" cy="512" r="54" fill="#10a37f"/>
+  <path d="M454 438c0-46 35-78 83-78 46 0 78 30 78 70 0 34-20 54-58 74-30 16-43 34-43 66" fill="none" stroke="#d7a85c" stroke-width="46" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="514" cy="656" r="34" fill="#d7a85c"/>
 </svg>
